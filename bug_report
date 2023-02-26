@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_reports>
+            <ID>012"</ID>
+            <Title>On the main page, when you click on the logo, the page does not refresh</Title>
+            <Version>iOS 16.1.1</Version>
+            <Severity>S3 Major</Severity>
+            <Priority>P2 Medium</Priority>
+            <Status>New</Status>
+            <Author>Tatyana Bartashevich</Author>
+            <Assigned_To>Ilya Ivanov</Assigned_To>                 
+</Bug_reports>
