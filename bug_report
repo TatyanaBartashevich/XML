@@ -2,6 +2,10 @@
 <Bug_reports>
             <ID>012"</ID>
             <Title>On the main page, when you click on the logo, the page does not refresh</Title>
+            <Description>Step1:Go to ozol.com website</Description> 
+	<Description>Step2:Click on the page logo</Description>
+            <Expected_result>Websire is updating</Expected_result>
+            <Actual_result>Website is not updating</Actual_result>
             <Version>iOS 16.1.1</Version>
             <Severity>S3 Major</Severity>
             <Priority>P2 Medium</Priority>
